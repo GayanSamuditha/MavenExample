@@ -12,9 +12,7 @@
     <dependency>
         <groupId>com.gayan.test</groupId>
         <artifactId>Project1</artifactId>
-        <version>1.0</version>
-        <scope>system</scope>
-        <systemPath>C:/Users/Asus/Desktop/Krishantha/Maven2/src/main/lib/Project1.jar</systemPath>
+        <version>1.0-SNAPSHOT</version>
     </dependency>
 
 </dependencies>

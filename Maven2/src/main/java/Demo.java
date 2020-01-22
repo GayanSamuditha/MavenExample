@@ -4,5 +4,10 @@ public class Demo {
         Application application = new Application();
         Student student = new Student();
         student.write();
+
+
+
+
+
     }
 }
